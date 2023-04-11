@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667599569820",
+    "firebase_url": "https://quduratk-quiz-app-default-rtdb.firebaseio.com",
+    "project_id": "quduratk-quiz-app",
+    "storage_bucket": "quduratk-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667599569820:android:aa029df0afe0c763017e59",
+        "android_client_info": {
+          "package_name": "com.eltagir.qudurat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667599569820-gl8ah5j2v5825glveegrl7g4g73vc19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwo5_Pf4EeHeUaAim3HbO5TYry51w61v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667599569820-7am5347vvhgaqmdt9n38injseut0p1j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
